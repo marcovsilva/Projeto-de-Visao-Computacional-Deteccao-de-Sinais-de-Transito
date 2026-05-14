@@ -1,4 +1,4 @@
-# Detecção de Sinais de Trânsito Alemães com HOG e SVM
+# Detecção de Sinais de Trânsito com HOG e SVM
 
 Este projeto implementa um pipeline clássico de visão computacional para **detecção de sinais de trânsito** utilizando o dataset [German Traffic Sign Detection Benchmark (GTSDB)](https://www.kaggle.com/datasets/safabouguezzi/german-traffic-sign-detection-benchmark-gtsdb?resource=download-directory). O objetivo é localizar sinais de trânsito em imagens reais de estradas, simulando um cenário de carro autônomo.
 
